@@ -1,0 +1,55 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    color: #818181;
+    margin: 0;
+    height: 100%;
+}
+
+h2,
+h3,
+    {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-style: italic;
+    color: yellow;
+    text-shadow: 1px 1px 0 #444;
+    font-weight: 600;
+    margin-bottom: 30px;
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 1.375em;
+}
+
+div {
+    padding: 10%;
+}
+
+p {
+    text-transform: lowercase;
+    font-size: 19px;
+    line-height: 1.375em;
+    color: yellow;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("crystal.gif");
+
+    /* Full height */
+    height: 100%;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
