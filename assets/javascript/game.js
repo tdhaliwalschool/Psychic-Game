@@ -5,9 +5,6 @@
  'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 
 
-
-
-
 // Creating variables to hold the number of wins, losses, and attempts. They start at 0.
 
 var wins = 0;
